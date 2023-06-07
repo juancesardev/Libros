@@ -1,0 +1,69 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = LibrosAutoresBlazor
+build_property.RootNamespace = LibrosAutoresBlazor
+build_property.ProjectDir = D:\ANONYMOUS\GITHUB\Dvelopment\APIs\Api_1\Libros\LibrosAutoresBlazor\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\ANONYMOUS\GITHUB\Dvelopment\APIs\Api_1\Libros\LibrosAutoresBlazor
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/ANONYMOUS/GITHUB/Dvelopment/APIs/Api_1/Libros/LibrosAutoresBlazor/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ANONYMOUS/GITHUB/Dvelopment/APIs/Api_1/Libros/LibrosAutoresBlazor/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ANONYMOUS/GITHUB/Dvelopment/APIs/Api_1/Libros/LibrosAutoresBlazor/Pages/FetchData.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ANONYMOUS/GITHUB/Dvelopment/APIs/Api_1/Libros/LibrosAutoresBlazor/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ANONYMOUS/GITHUB/Dvelopment/APIs/Api_1/Libros/LibrosAutoresBlazor/Pages/libros/AllLibros.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcbGlicm9zXEFsbExpYnJvcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ANONYMOUS/GITHUB/Dvelopment/APIs/Api_1/Libros/LibrosAutoresBlazor/Pages/libros/CreateLibro.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcbGlicm9zXENyZWF0ZUxpYnJvLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ANONYMOUS/GITHUB/Dvelopment/APIs/Api_1/Libros/LibrosAutoresBlazor/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ANONYMOUS/GITHUB/Dvelopment/APIs/Api_1/Libros/LibrosAutoresBlazor/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ANONYMOUS/GITHUB/Dvelopment/APIs/Api_1/Libros/LibrosAutoresBlazor/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-w97qpjl1wd
+
+[D:/ANONYMOUS/GITHUB/Dvelopment/APIs/Api_1/Libros/LibrosAutoresBlazor/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-ixyyrizl8u
+
+[D:/ANONYMOUS/GITHUB/Dvelopment/APIs/Api_1/Libros/LibrosAutoresBlazor/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ANONYMOUS/GITHUB/Dvelopment/APIs/Api_1/Libros/LibrosAutoresBlazor/Pages/_Host.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ANONYMOUS/GITHUB/Dvelopment/APIs/Api_1/Libros/LibrosAutoresBlazor/Pages/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

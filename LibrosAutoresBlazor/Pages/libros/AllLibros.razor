@@ -1,0 +1,57 @@
+﻿@page "/libros"
+@using LibrosAutoresBlazor.Models;
+@using LibrosAutoresBlazor.Repository;
+@inject ILibroService libroService
+
+<h1>Lista de Libros</h1>
+
+@if (libros != null && libros.Any())
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Titulo</th>
+                <th>Categoria</th>
+                <th>Publicado</th>
+                <th>Autor</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var libro in libros)
+            {
+                <tr>
+                    <td>@libro.Id</td>
+                    <td>@libro.Titulo</td>
+                    <td>@libro.Categoria</td>
+                    <td>@libro.FechaPublicacion</td>
+                    <td>@libro.AutorId</td>
+                    <td>
+                        <a href="@($"libros/edit/{libro.Id}")">Editar</a> |
+                        <a href="@($"libros/create/")">Crear</a>|
+                        <a href="@($"libros/deletelibro/{libro.Id}")">Eliminar</a>
+                    </td>
+
+
+                    <td>
+
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p>No se encontraron libros</p>
+}
+
+@code {
+    private List<Libro> libros;
+
+    protected override async Task OnInitializedAsync()
+    {
+        libros = await libroService.GetLibrosAsync();
+    }
+}
